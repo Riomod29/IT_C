@@ -1,0 +1,15 @@
+Lesson1_Sesson5
+
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập n, (0 <= n <= 10)
+- Hình thoi: n < 4?
+  +Yes: In "Không đạt"
+  +No: Hình thoi: 4 <= n <= 6?
+    +Yes: In "Trung Bình"
+    +No: Hình thoi: 6 < n <= 8?
+      +Yes: In "Khá"
+      +No: Hình thoi: 8 < n <= 9?
+        +Yes: In "Giỏi"
+        +No: In "Xuất sắc"
+- Hình bầu dục: End

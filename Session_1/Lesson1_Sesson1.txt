@@ -1,0 +1,9 @@
+Lesson1_Sesson1
+
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập a, b
+- Hình thoi: a > b?
+  +Yes: In "a lớn hơn b"
+  +No: In "b lớn hơn a"
+- Hình bầu dục: End

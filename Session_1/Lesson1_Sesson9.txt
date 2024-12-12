@@ -1,0 +1,13 @@
+Lesson1_Sesson9
+
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập a, b (a>b)
+- Hình chữ nhật:
+  *Dùng vòng lặp tìm UCLL:
+   -L1: a = thương1*b + dư1
+   -L2: b = thương2*dư1  + dư2
+   ...
+   -Lặp số lần x đến khi dưx =0 => UCLL = dư(x-1)
+- Hình bình hành: In BCNN = (a*b) / UCLL
+- Hình bầu dục: End

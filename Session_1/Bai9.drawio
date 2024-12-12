@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="ubqL9lIWW5M5NBGkmcGC">
+    <mxGraphModel dx="1480" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0c5fkCkQc_oBLqX_4UL-3" target="G0c5fkCkQc_oBLqX_4UL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-3" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Start&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="65" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0c5fkCkQc_oBLqX_4UL-4" target="G0c5fkCkQc_oBLqX_4UL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-4" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Nhập a, b&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0c5fkCkQc_oBLqX_4UL-5" target="G0c5fkCkQc_oBLqX_4UL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-5" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;for( int i = min(a,b); i&amp;lt;0; i--)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="270" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0c5fkCkQc_oBLqX_4UL-6" target="G0c5fkCkQc_oBLqX_4UL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-6" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;if(&lt;/span&gt;&lt;code style=&quot;color: rgb(255, 255, 255); background: transparent; font-size: 15px; border-radius: 0px; padding: 0px; text-align: left; white-space: pre; border: 0px !important; font-family: Consolas, &amp;quot;Bitstream Vera Sans Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, monospace !important; inset: auto !important; float: none !important; height: auto !important; line-height: 1.4em !important; margin: 0px !important; outline: 0px !important; overflow: visible !important; position: static !important; vertical-align: baseline !important; width: auto !important; box-sizing: content-box !important; min-height: auto !important;&quot; class=&quot;cpp plain&quot;&gt;A % i == 0 &amp;amp;&amp;amp; B % i ==0)&lt;/code&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="295" y="355" width="290" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G0c5fkCkQc_oBLqX_4UL-7" target="G0c5fkCkQc_oBLqX_4UL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-7" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;In i&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="500" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G0c5fkCkQc_oBLqX_4UL-8" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;End&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="385" y="590" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

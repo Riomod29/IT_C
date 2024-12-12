@@ -1,0 +1,14 @@
+Lesson1_Sesson8
+
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập a, b
+- Hình chữ nhật: delta = b*b - 4*a*c
+- Hình thoi: delta < 0?
+  +Yes: In " Phương trình vô nghiệm
+  +No: Hình thoi: delta == 0?
+    +Yes: In ("Phương trình có 2 nghiệm kép", x1 = x2 = (-b) / 2a)
+    +No: In "Phương trình có 2 nghiệm phân biệt"
+            x1 = (-b + sqrt(delta) / 2a)
+            x2 = (-b - sqrt(delta) / 2a)
+- Hình bầu dục: End

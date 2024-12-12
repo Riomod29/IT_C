@@ -1,0 +1,31 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="BFsWZsMjRjLBfDCsQAaC">
+    <mxGraphModel dx="1480" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9ibs9TJipyRA2eOeoHKF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="9ibs9TJipyRA2eOeoHKF-1" target="9ibs9TJipyRA2eOeoHKF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ibs9TJipyRA2eOeoHKF-1" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Start&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ibs9TJipyRA2eOeoHKF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="9ibs9TJipyRA2eOeoHKF-2" target="9ibs9TJipyRA2eOeoHKF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ibs9TJipyRA2eOeoHKF-2" value="&lt;font&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Nhập a, b&lt;/span&gt;&lt;br style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Nhập phép tính&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="409.38" y="160" width="221.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ibs9TJipyRA2eOeoHKF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="9ibs9TJipyRA2eOeoHKF-3" target="9ibs9TJipyRA2eOeoHKF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ibs9TJipyRA2eOeoHKF-3" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;In ra:&lt;/span&gt;&lt;br style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;a (phép tình) b&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="427.51" y="280" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ibs9TJipyRA2eOeoHKF-4" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;End&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

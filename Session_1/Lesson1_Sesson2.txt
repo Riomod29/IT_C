@@ -1,0 +1,9 @@
+Lesson1-Sesson2
+
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập n
+- Hình thoi: n%2==0?
+  +Yes: In "n là số chẵn"
+  +No: In "n là số lẻ"
+- Hình bầu dục: End

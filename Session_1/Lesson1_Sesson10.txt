@@ -1,0 +1,10 @@
+Lesson1_Sesson10
+
+Trình bày Flowchart:
+- Hình bầu dục: Start
+- Hình bình hành: Nhập n (n có 3 chữ số)
+- Hình chữ nhật: char1 = quotient(n/100)   //chia lấy nguyên
+                 char2 = quotient(mod(n/100) / 10)   //mod lấy dư ra 67, chia lấy nguyên ra 6
+                 char3 = mod(mod(n/100) / 10)
+-Hình bình hành: In (char3*100 + char2*10 +char1)
+-Hình cầu dục: End
